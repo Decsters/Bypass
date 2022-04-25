@@ -1,0 +1,30 @@
+
+
+-----------------------------
+          [Scripthook X]
+-----------------------------
+Download: TRUE
+SimpleT: TRUE
+Fixture: TRUE
+-----------------------------
+          [Injector X]
+-----------------------------
+eula: true
+syskey; true
+nedx: true
+windox: true
+nedstat: disabled -n -3
+Telcom: false
+trnslt: true
+brxit: false
+nedgas: true
+blew: false
+xdov: false
+echo: X - x
+-------------- Scripthookx
+Dwnld: bit.ly/298hd9ash982has/sf98dh92h29sd/sddhf98h3esad/Vivtoken/VIVID/enabled
+BetterX: enabled
+Liquid+: enabled
+BoosterX: enabled
+NedstadX: enabled
+VIVID: enabled
